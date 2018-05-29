@@ -1,7 +1,7 @@
 package helloworld;
 
 /**
- * aaaUm programa que diz Ola Mundo
+ * Um programa que diz Ola Mundo
  */
 public class HelloWorld {
 	public static void main(String[] args) {
